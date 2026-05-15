@@ -1,0 +1,14 @@
+{
+  "accuracy": 0.968400447427293,
+  "confusion_matrix": [
+    [
+      3311,
+      92
+    ],
+    [
+      21,
+      152
+    ]
+  ],
+  "total_test_examples": 3576
+}
